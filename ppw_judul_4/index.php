@@ -15,7 +15,7 @@ require_once __DIR__ . '/handlers/contact_handler.php';
 <div class="container py-5">
     <div class="text-center mb-4">
         <h1 class="h3 mb-1">Manajemen Kontak</h1>
-        <p class="text-muted mb-0">Catat nama, telepon, dan email secara sederhana.</p>
+        <p class="text-muted mb-0">Catat nama, telepon, dan email.</p>
     </div>
     <div class="row g-4">
         <div class="col-lg-5 mb-4 mb-lg-0">
